@@ -1,0 +1,14 @@
+=>state pattern
+You can find it in the file name src/satePattern
+
+=>strategy pattern
+You can find it in the file name src/strategyPattern.
+
+=>abstract factory pattern. 
+You can find it in the file name src/abstractFactoryPattern.
+
+=> GasPumps 
+You can find them in src/GasPumps file.
+
+=> MDA-EFSM & OutputProcessor 
+They are inside the src/statePattern.
